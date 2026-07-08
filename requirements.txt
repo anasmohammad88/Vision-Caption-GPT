@@ -1,0 +1,9 @@
+torch>=2.11.0
+torchvision>0.25.3
+torchmetrics>=1.8.0
+
+tensorboard==2.19.0
+numpy>=2.3.0
+pandas>=2.3.0
+pillow>=11.0.0
+tqdm>=4.67.0
