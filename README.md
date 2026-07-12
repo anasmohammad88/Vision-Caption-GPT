@@ -415,7 +415,9 @@ VisionCaptionGPT/
 │   └── vision_caption_model.py
 │
 ├── inference/
-│   └── caption_generator.py
+│   ├── caption_generator.py
+│   └── predictor.py
+│
 │
 ├── training/
 │   ├── train.py
