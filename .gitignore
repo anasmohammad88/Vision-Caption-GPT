@@ -1,0 +1,8 @@
+/models/__pycache__
+/training/__pycache__
+/models/cnn/__pycache__
+/models/transformer/__pycache__
+/dataset/__pycache__
+/data/Images
+/inference/__pycache__
+/data
