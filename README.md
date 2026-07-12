@@ -378,14 +378,6 @@ Best Validation CE     : 2.8251
 
 
 
-### Caption Quality
-
-| Metric | Value |
-| ------ | ----: |
-| BLEU-1 |       |
-| BLEU-2 |       |
-| BLEU-3 |       |
-| BLEU-4 |       |
 
 ---
 
@@ -394,22 +386,17 @@ Best Validation CE     : 2.8251
 **Input**
 
 ```text
-Image
+1089181217_ee1167f7af.jpg
+209605542_ca9cc52e7b.jpg
 ```
 
-**Prediction**
+<img width="636" height="659" alt="image" src="https://github.com/user-attachments/assets/0e1f331a-26c9-4156-9a78-89a2b301a61b" />
 
-```text
-(To be added)
-```
 
-**Ground Truth**
 
-```text
-(To be added)
-```
+<img width="482" height="659" alt="image" src="https://github.com/user-attachments/assets/f806db48-9bee-4bef-95d0-ec06be5a4f23" />
 
----
+
 
 ## Repository Structure
 
